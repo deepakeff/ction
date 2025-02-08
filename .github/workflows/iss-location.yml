@@ -11,5 +11,5 @@ jobs:
       
       - name: appala.deepak@straive.com
         run: echo "Hello, world!"
-      - name:appala.deepak@straive.com
+      - name: appala.deepak@straive.com
         run: echo "Hello, world!"
